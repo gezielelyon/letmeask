@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-# **React Letmeask**
+# **Letmeask**
 
 </div>
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react_letmeask)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react_letmeask)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/react_letmeask)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/react_letmeask)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/letmeask)](https://github.com/gezielelyon/letmeask/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/letmeask)](https://github.com/gezielelyon/letmeask/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/letmeask)](https://github.com/gezielelyon/letmeask/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/letmeask)](https://github.com/gezielelyon/letmeask)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
